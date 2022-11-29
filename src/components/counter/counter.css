@@ -1,0 +1,13 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  width: 100px;
+  height: 47px;
+  font-size: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
